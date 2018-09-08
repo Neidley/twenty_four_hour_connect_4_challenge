@@ -5,11 +5,12 @@
 }
 
 .gameboard {
-  width: 100%;
-  height: 100%;
+  width: 212px;
+  height: 185px;
   position: absolute;
-  top: 197px;
-  left: 126px;
+  background-color: #E0D06A;
+  top: 195px;
+  left: 130px;
   z-index: 10;
 }
 
@@ -22,6 +23,8 @@
 }
 
 .gameboard button {
+  border-color: #E0D06A;
+  color: transparent;
   height: 30px;
   width: 30px;
   border-radius: 50%;

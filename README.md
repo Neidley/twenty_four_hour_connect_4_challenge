@@ -2,7 +2,7 @@
 
 I wanted to challenge myself to
 
--only use javascript, css/bootstrap, and html
+-only use javascript, css, and html
 -do my research
 -document everything
 -keep my code clean
